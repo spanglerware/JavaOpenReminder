@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><app>
+   <reminder>
+      <name>take a break</name>
+      <frequency>20</frequency>
+      <repeat>false</repeat>
+   </reminder>
+   <reminder>
+      <name>walk the dog</name>
+      <frequency>5</frequency>
+      <repeat>false</repeat>
+   </reminder>
+<reminder><name>drink water</name><frequency>8</frequency>
+      <repeat>true</repeat>
+</reminder>
+<reminder><name>stretch</name><frequency>23</frequency>
+      <repeat>true</repeat>
+</reminder><reminder><name>eat</name><frequency>10800</frequency><repeat>false</repeat></reminder></app>
